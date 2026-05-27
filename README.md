@@ -14,6 +14,16 @@
 
 ---
 
+<div align="center">
+
+![MarkdownGeenie App Screenshot](docs/screenshot.png)
+
+*Die MarkdownGeenie Desktop-Anwendung mit deutscher Benutzeroberfläche*
+
+</div>
+
+---
+
 ## 🎯 Über das Projekt
 
 **MarkdownGeenie** ist eine leistungsstarke Desktop- und Web-Anwendung, die Markdown-Dateien in professionell formatierte Word-Dokumente (.docx) konvertiert. Das Projekt wurde ursprünglich von **[gambadio](https://github.com/gambadio)** als Web-App entwickelt und von **HorosCode** zur nativen Desktop-Anwendung erweitert.
