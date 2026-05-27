@@ -8,6 +8,8 @@
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Web-lightgrey.svg)
 
+**#Markdown #DOCX #WordConverter #Tauri #SvelteKit #Rust #TypeScript #DesktopApp #WebApp #OpenSource #Deutsch #German #MarkdownToWord #DocumentConverter #NativeApp #CrossPlatform #TailwindCSS #Vite**
+
 </div>
 
 ---
@@ -311,6 +313,19 @@ Stelle sicher, dass `vite.config.ts` das `src-tauri` Verzeichnis ignoriert.
 
 ---
 
+## 🏷️ Topics & Keywords
+
+### Technologien
+`svelte` `sveltekit` `tauri` `rust` `typescript` `javascript` `vite` `tailwindcss` `markdown-it` `docx` `nodejs` `pnpm` `npm`
+
+### Funktionen
+`markdown` `word` `docx` `converter` `markdown-to-word` `document-converter` `desktop-app` `web-app` `native-app` `cross-platform` `file-converter` `markdown-parser` `document-generation`
+
+### Kategorien
+`productivity` `tools` `utilities` `open-source` `german` `deutsch` `windows` `electron-alternative` `lightweight` `offline-first` `privacy` `client-side`
+
+---
+
 ## 📝 Lizenz
 
 MIT License - siehe LICENSE Datei
@@ -319,24 +334,34 @@ MIT License - siehe LICENSE Datei
 
 ## 👨‍💻 Entwickler
 
-**HorosCode**
-- GitHub: [@gambadio](https://github.com/gambadio)
-- Projekt: [MarkdownGeenie](https://github.com/gambadio/markdowngeenie)
+**Original-Entwickler:** [gambadio](https://github.com/gambadio)
+- Original-Repo: [gambadio/markdowngeenie](https://github.com/gambadio/markdowngeenie)
+
+**Weiterentwicklung:** HorosCode ([@HorosCloudOfficial](https://github.com/HorosCloudOfficial))
+- Desktop-Version: [HorosCloudOfficial/markdowngeenie](https://github.com/HorosCloudOfficial/markdowngeenie)
 
 ---
 
-## 🙏 Credits
+## 🙏 Credits & Danksagungen
 
-- [Tauri](https://tauri.app/) - Native Desktop Framework
-- [SvelteKit](https://kit.svelte.dev/) - Web Framework
+**Frameworks & Libraries:**
+- [Tauri](https://tauri.app/) - Native Desktop Framework (Rust)
+- [SvelteKit](https://kit.svelte.dev/) - Web Application Framework
 - [markdown-it](https://github.com/markdown-it/markdown-it) - Markdown Parser
 - [docx](https://docx.js.org/) - Word Document Generation
+- [Tailwind CSS](https://tailwindcss.com/) - Utility-First CSS Framework
+- [Vite](https://vitejs.dev/) - Next Generation Frontend Tooling
+
+**Original-Entwickler:**
+- Danke an [gambadio](https://github.com/gambadio) für die exzellente Web-App-Grundlage!
 
 ---
 
 <div align="center">
 
-**Entwickelt mit ❤️ von HorosCode**
+**Ursprünglich entwickelt von [gambadio](https://github.com/gambadio)** | **Desktop-Version von HorosCode**
+
+⭐ **Star** das Projekt wenn es dir gefällt!
 
 [⬆ Nach oben](#-markdowngeenie)
 
