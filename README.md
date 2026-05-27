@@ -16,7 +16,7 @@
 
 <div align="center">
 
-![MarkdownGeenie App Screenshot](docs/screenshot.png)
+![MarkdownGeenie App Screenshot](docs/image-1779864855154.png)
 
 *Die MarkdownGeenie Desktop-Anwendung mit deutscher Benutzeroberfläche*
 
