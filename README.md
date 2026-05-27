@@ -1,6 +1,6 @@
 # 📝 MarkdownGeenie
 ### Professioneller Markdown zu Word Konverter
-**Entwickelt von HorosCode** 🚀
+**Ursprünglich entwickelt von [gambadio](https://github.com/gambadio)** | **Weiterentwickelt von HorosCode** 🚀
 
 <div align="center">
 
@@ -14,7 +14,7 @@
 
 ## 🎯 Über das Projekt
 
-**MarkdownGeenie** ist eine leistungsstarke Desktop- und Web-Anwendung, die Markdown-Dateien in professionell formatierte Word-Dokumente (.docx) konvertiert. Das Projekt wurde von **HorosCode** entwickelt und kombiniert moderne Web-Technologien mit nativer Desktop-Performance.
+**MarkdownGeenie** ist eine leistungsstarke Desktop- und Web-Anwendung, die Markdown-Dateien in professionell formatierte Word-Dokumente (.docx) konvertiert. Das Projekt wurde ursprünglich von **[gambadio](https://github.com/gambadio)** als Web-App entwickelt und von **HorosCode** zur nativen Desktop-Anwendung erweitert.
 
 ### ✨ Highlights
 
@@ -225,39 +225,35 @@ npm run lint
 
 ---
 
-## 🎯 Was wurde entwickelt
+## 🎯 Entwicklungsgeschichte
 
-### Von HorosCode implementiert:
+### Von [gambadio](https://github.com/gambadio) entwickelt (Original):
 
-#### Phase 1: Core Functionality
+#### Core Web-Anwendung
 - ✅ SvelteKit Projekt-Setup mit TypeScript
 - ✅ Markdown-it Integration mit Plugins
 - ✅ DOCX Generation mit professionellen Styles
 - ✅ Theme-System (Minimal & Elegant)
 - ✅ Drag & Drop File Upload
 - ✅ Live Markdown Editor
+- ✅ Browser-basierte Konvertierung
 
-#### Phase 2: Desktop Integration
-- ✅ Tauri 2.0 Integration
-- ✅ Native Windows Save Dialog
+### Von HorosCode weiterentwickelt:
+
+#### Phase 1: Desktop Integration
+- ✅ Tauri 2.0 Integration für native Windows-App
+- ✅ Native Windows Save Dialog (statt Browser-Download)
 - ✅ Hot Reload Development Setup
 - ✅ Rust Backend Compilation
-- ✅ .bat Starter Scripts
+- ✅ .bat Starter Scripts (markdowngeenie.bat, build-exe.bat, start-web.bat)
 
-#### Phase 3: Lokalisierung & Branding
-- ✅ Komplette deutsche Übersetzung
+#### Phase 2: Lokalisierung & Branding
+- ✅ Komplette deutsche Übersetzung aller UI-Komponenten
 - ✅ HorosCode Branding Integration
 - ✅ Custom Window Titles
 - ✅ Footer & Credits
-- ✅ Dokumentation (README, Anleitung)
-
-#### Phase 4: Polish & UX
-- ✅ Toast Notifications
-- ✅ Loading States
-- ✅ Error Handling
-- ✅ Responsive Design
-- ✅ Accessibility (ARIA, Keyboard Nav)
-- ✅ Dark Mode Support
+- ✅ Umfassende deutsche Dokumentation (README, START-ANLEITUNG.md)
+- ✅ Production Build Setup (.exe Generierung)
 
 ---
 
